@@ -1,0 +1,15 @@
+<resources>
+    //Textos del primer activity
+
+    <string name="app_name">Agenda Semana 2</string>
+    <string name="Nombre">Nombre completo</string>
+    <string name="Fecha">Fecha</string>
+    <string name="Telefono">Telefono</string>
+    <string name="Email">Email</string>
+    <string name="Descripcion">Descripción Completa</string>
+    <string name="btn_Siguiente">Siguiente</string>
+
+    //TExtos del segundo activity
+    <string name="confirmar">Confirmar Datos</string>
+    <string name="editar">Editar Datos</string>
+</resources>
